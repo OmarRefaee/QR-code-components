@@ -33,15 +33,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I didn't Really Learn something new but i loved the process and I loved The "outfit" Font
+  I didn't Really Learn something new but i loved the process and I loved The "outfit" Font
 
 ### Continued development
 
-I want to focus on Completing the projects quickly i think i took long time to make this project
+  I want to focus on Completing the projects quickly i think i took long time to make this project
 
 ### Useful resources
 
-- [Box-Shadow](https://box-shadow.dev/) - This helped me for Making The box shadow.
+- [Box-Shadow](https://box-shadow.dev/) - This website helped me for Making The box shadow.
 
 ## Author
 
@@ -51,4 +51,4 @@ I want to focus on Completing the projects quickly i think i took long time to m
 
 ## Acknowledgments
 
-Shout out to - [Mohamed Bakr](https://github.com/MohammedBakr44)
+  Shout out to - [Mohamed Bakr](https://github.com/MohammedBakr44)
