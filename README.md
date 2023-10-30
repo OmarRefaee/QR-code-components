@@ -51,4 +51,4 @@ I want to focus on Completing the projects quickly i think i took long time to m
 
 ## Acknowledgments
 
-Shout out to - [Mohamed Bakr] (https://github.com/MohammedBakr44)
+Shout out to - [Mohamed Bakr](https://github.com/MohammedBakr44)
