@@ -52,7 +52,7 @@ body {
     -o-border-radius: 10px;
 }
 
-.inner-box h2 {
+.inner-box h1 {
     color: hsl(218, 44%, 22%);
     font-size: 22px;
     font-weight: 700;
