@@ -46,9 +46,9 @@ I want to focus on Completing the projects quickly i think i took long time to m
 ## Author
 
 - Website - [Omar Refaee](https://github.com/OmarRefaee)
-- Frontend Mentor - [@OmarRefaee](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@OmarRefaee](https://www.frontendmentor.io/profile/OmarRefaee)
 - Facebook - [@OmarRefaee0](https://www.facebook.com/OmarRefaee0)
 
 ## Acknowledgments
 
-Shout out to [MohamedBakr] (https://github.com/MohammedBakr44)
+Shout out to - [Mohamed Bakr] (https://github.com/MohammedBakr44)
