@@ -26,7 +26,7 @@ My First Front-End Mentor Challenge
 
 ### Links
 
-- Solution URL: [olution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
 - Live Site URL: [Live Site](https://omarrefaee.github.io/QR-code-components/)
 
 ### Built with
